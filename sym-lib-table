@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name synermycha-electronics)(type Legacy)(uri ${KIPRJMOD}/libs/synermycha-electronics.lib)(options "")(descr ""))
+  (lib (name sata_molex)(type Legacy)(uri ${KIPRJMOD}/libs/sata_molex.lib)(options "")(descr ""))
+)
